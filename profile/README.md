@@ -1,4 +1,4 @@
-# Henlo I'm Buddhika
+# Henlo. I'm Buddhika
 
 Cloud & DevOps · AWS · Kubernetes · Automation
 
