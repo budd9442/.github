@@ -1,4 +1,4 @@
-# Henlo I'm Buddhika 
+# Henlo I'm Buddhika
 
 Cloud & DevOps · AWS · Kubernetes · Automation
 
@@ -18,6 +18,9 @@ Cloud & DevOps · AWS · Kubernetes · Automation
       <a href="https://learn.microsoft.com/en-us/credentials/certifications/">
         <img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/github-administration.svg" height="100" alt="GitHub Administration Certification"/>
       </a>
+    </td>
+    <td align="center" valign="middle">
+      <img src="https://images.credly.com/images/08a5010a-0c0a-448c-981e-c116fedd380c/twitter_thumb_201604_image.png" height="100" alt="Additional certification badge"/>
     </td>
     <td align="center" valign="middle">
       <a href="https://stackoverflow.com/users/11390692/buddhika-bandara">
